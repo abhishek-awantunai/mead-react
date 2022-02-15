@@ -1,0 +1,21 @@
+header{
+    background-color: forestgreen;
+}
+header ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+}
+header ul li{
+    display: inline-block;
+    padding: 5px 10px;
+}
+header ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+header ul li a.active {
+    color: blue;
+}
