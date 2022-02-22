@@ -1,0 +1,22 @@
+header {
+    background-color: #d9232d;
+    padding: 30px 15px;
+    img{
+        max-width: 75px;
+    }
+    ul{
+        margin: 0px;
+        padding: 0px;
+        text-align: right;
+        float: right;
+        li {
+            font-weight: 700;
+            font-size: 16px;
+            cursor: pointer;
+            color: white;
+            display: inline-block;
+            padding: 5px 10px;
+            list-style-type: none;
+        }
+    }
+}
